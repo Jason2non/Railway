@@ -1,0 +1,18 @@
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\bin\Release\Application interface.exe.config
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\bin\Release\Application interface.exe
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\bin\Release\Application interface.pdb
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application interface.csproj.AssemblyReference.cache
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.Customer.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.booking.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.AdminPanel.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.Login.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.payment.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.Properties.Resources.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.sales.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.Train.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application_interface.viewpass.resources
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application interface.csproj.GenerateResource.cache
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application interface.csproj.CoreCompileInputs.cache
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application interface.exe
+C:\Users\adm\3D Objects\RailwaySystem\railwaymanagementsystem\Application interface\obj\Release\Application interface.pdb
